@@ -1,6 +1,6 @@
 [package]
 name = "safe-bytes"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Zakarum <zakarumych@ya.ru>"]
 edition = "2018"
 description = "Helper crate to read bytes representation of structs safely"
@@ -11,4 +11,4 @@ readme = "README.md"
 repository = "https://github.com/zakarumych/safe-bytes"
 
 [dependencies]
-safe-bytes-derive = { version = "=0.1.0", path = "safe-bytes-derive" }
+safe-bytes-derive = { version = "=0.1.1", path = "safe-bytes-derive" }

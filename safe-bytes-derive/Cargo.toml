@@ -1,6 +1,6 @@
 [package]
 name = "safe-bytes-derive"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Zakarum <zakarumych@ya.ru>"]
 edition = "2018"
 description = "Helper crate to read bytes representation of structs safely"
