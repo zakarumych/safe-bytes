@@ -1,0 +1,13 @@
+[package]
+name = "safe-bytes"
+version = "0.1.0"
+authors = ["Zakarum <zakarumych@ya.ru>"]
+edition = "2018"
+description = "Helper crate to read bytes representation of structs safely"
+license = "MIT OR Apache-2.0"
+documentation = "https://docs.rs/safe-bytes"
+keywords = ["no_std", "bytes"]
+readme = "README.md"
+
+[dependencies]
+safe-bytes-derive = { version = "=0.1.0", path = "safe-bytes-derive" }
