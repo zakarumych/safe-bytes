@@ -8,6 +8,7 @@ license = "MIT OR Apache-2.0"
 documentation = "https://docs.rs/safe-bytes"
 keywords = ["no_std", "bytes"]
 readme = "README.md"
+repository = "https://github.com/zakarumych/safe-bytes"
 
 [dependencies]
 safe-bytes-derive = { version = "=0.1.0", path = "safe-bytes-derive" }
