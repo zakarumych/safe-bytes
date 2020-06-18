@@ -1,2 +1,3 @@
 /target
+/safe-bytes-derive/target
 Cargo.lock
